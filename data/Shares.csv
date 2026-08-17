@@ -1,0 +1,6 @@
+Name,Description,ReadGroup,ModifyGroup
+Engineering,Engineering team data,DL_Engineering_Read,DL_Engineering_Modify
+Operations,Operations team data,DL_Operations_Read,DL_Operations_Modify
+Finance,Finance team data,DL_Finance_Read,DL_Finance_Modify
+People,People team data,DL_People_Read,DL_People_Modify
+Common,Company-wide read-only reference data,DL_Common_Read,DL_Common_Modify

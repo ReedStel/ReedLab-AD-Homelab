@@ -1,0 +1,9 @@
+GivenName,Surname,SamAccountName,Department,Title,TargetOU,RoleGroups,Enabled
+Alex,Morgan,alex.morgan,Engineering,Systems Engineer,Engineering,GG_Engineering_Users,True
+Jordan,Lee,jordan.lee,Engineering,Support Engineer,Engineering,GG_Engineering_Users,True
+Casey,Patel,casey.patel,Operations,Operations Analyst,Operations,GG_Operations_Users,True
+Taylor,Nguyen,taylor.nguyen,Operations,Service Coordinator,Operations,GG_Operations_Users,True
+Morgan,Chen,morgan.chen,Finance,Finance Analyst,Finance,GG_Finance_Users,True
+Riley,Brooks,riley.brooks,Finance,Accounts Officer,Finance,GG_Finance_Users,True
+Jamie,Wilson,jamie.wilson,People,People Coordinator,People,GG_People_Users,True
+Sam,Rivera,sam.rivera,People,Recruitment Adviser,People,GG_People_Users,True

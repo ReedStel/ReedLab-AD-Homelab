@@ -1,0 +1,32 @@
+# Credentials and local configuration
+*.cred
+*.key
+*.pfx
+*.cer
+*.env
+.env
+secrets/
+
+# VM and installation media
+*.iso
+*.vhd
+*.vhdx
+*.avhdx
+Virtual Machines/
+
+# Runtime output
+*.log
+*.etl
+*-validation.csv
+reports/
+transcripts/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# PowerShell test output
+TestResults/
+coverage.xml
